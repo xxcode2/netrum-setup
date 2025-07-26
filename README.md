@@ -4,12 +4,12 @@ Script interaktif berbasis terminal untuk setup node Netrum, wallet, dan mining.
 
 ## 📦 Cara Install
 
-bash
+```bash
 git clone https://github.com/xxcode2/netrum-setup.git
 cd netrum-setup
 chmod +x netrum-menu.sh
 ./netrum-menu.sh 
-```
+
 
 🧰 Fitur
 - Setup awal otomatis

@@ -1,8 +1,8 @@
 # 🚀 Netrum Setup Script
 
-Script interaktif berbasis terminal untuk setup node Netrum, wallet, dan mining.
+Terminal-based interactive script for Netrum node, wallet, and mining setup.
 
-## 📦 Cara Install
+## 📦 How to Install
 
 ```bash
 git clone https://github.com/xxcode2/netrum-setup.git
@@ -11,9 +11,9 @@ chmod +x netrum-menu.sh
 ./netrum-menu.sh 
 
 
-🧰 Fitur
-- Setup awal otomatis
-- Wallet baru atau impor
-- Registrasi node
-- Sync dan mining
-- Perbaikan otomatis untuk service dan log
+🧰 Features
+- Automatic initial setup
+- New or imported wallets
+- Node registration
+- Sync and mining
+- Automatic service and log fixes
